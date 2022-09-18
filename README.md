@@ -48,8 +48,18 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 >     - [Practice/Test your skills here with whatever programming language you are familiar with.](https://www.codechef.com/practice?end_rating=999&group=all&hints=0&itm_campaign=practice&itm_medium=navmenu&limit=20&page=0&search=&sort_by=difficulty_rating&sort_order=asc&start_rating=0&tags=&topic=&video_editorial=0&wa_enabled=0) 
 >     - Or [here](https://www.hackerrank.com/)
 > - Familiarity with Linux.
-> 
+>   - [Linux Cheatsheet](https://github.com/shreyaschavhan/linux-commands-cheatsheet)
+>   - Book : [The Linux Command Line](https://g.co/kgs/7gC3DZ)
+>   - Practice:
+>     - [OverTheWire Bandit](https://overthewire.org/wargames/bandit/)
+>     - [cmdchallenge](https://cmdchallenge.com/)
 > - Ability to write simple Python / Perl / PHP / Bash scripts.
+>   - Bash Scripting:
+>     - Practice:
+>       - [Bash Scripting Practice on Hackerrank](https://www.hackerrank.com/domains/shell?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bstatus%5D%5B%5D=solved&filters%5Bsubdomains%5D%5B%5D=bash)
+>       - https://www.learnshell.org/
+>     - 
+>
 > - Experience with web proxies.
 > - General understanding of web app attack vectors, theory, and practice.
 
