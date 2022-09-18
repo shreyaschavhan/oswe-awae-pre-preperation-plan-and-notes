@@ -58,8 +58,89 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 >     - Practice:
 >       - [Bash Scripting Practice on Hackerrank](https://www.hackerrank.com/domains/shell?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bstatus%5D%5B%5D=solved&filters%5Bsubdomains%5D%5B%5D=bash)
 >       - https://www.learnshell.org/
->     - 
->
+>     - Book 
+>       - [Shell Scripting: How to Automate Command Line Tasks Using...](https://g.co/kgs/LW4kQy)
 > - Experience with web proxies.
 > - General understanding of web app attack vectors, theory, and practice.
+>   - [The Web Application Hacker's Handbook](https://g.co/kgs/AdcrZt)
+
+---
+
+- Things that ain't mentioned in pre-requisites but is actually required
+```
+- SQL
+- ReGex
+```
+
+- ReGex
+  - [Best Tutorial on Regex (I think!)](https://youtu.be/sa-TUpSx1JA)
+  - [Best Advice](https://www.reddit.com/r/learnprogramming/comments/cduxuu/comment/etwj6hj/?utm_source=share&utm_medium=web2x&context=3)
+  - https://github.com/ziishaned/learn-regex
+
+```
+Quick Notes:
+
+
+MetaCharacters (Need to be escaped):
+.[{()\^|?*+
+
+
+For Example:
+. - select everything
+\. - matches literal dot
+
+- You have to escape \ with \ i.e. \\
+
+Matches characters
+.  - Any Character Except New Line
+\d - Digit (0-9)
+\D - Not a Digit (0-9)
+\w - Word Character (a-z, A-Z, 0-9, _)
+\W - Not a Word character
+\s - Whitespace (space, tab, newline)
+\S - Not Whitespace (space, tab, newline)
+
+
+Anchors - matches visible positions between characters
+\b - Word Boundary
+\B - Not a Word Boundary
+^  - Beginning of a String
+$  - End of a String
+
+
+[]   - Matches Characters in brackets
+[^ ] - Matches Characters NOT in bracket
+|    - Either Or
+( )  - Group
+
+
+Quantifiers:
+*      - 0 or More
++      - 1 or More
+?      - 0 or One
+{3}    - Exact Number
+{3, 4} - Range of Numbers (Minimum, Maximum)
+```
+
+- SQL
+  - https://sqlbolt.com/
+  - https://www.hackerrank.com/domains/sql
+  - https://leetcode.com/problemset/database/
+  - Others
+```
+codewars
+stratascratch
+https://pgexercises.com/questions/basic/
+https://app.sixweeksql.com/
+https://mystery.knightlab.com/
+https://schemaverse.com/
+https://mode.com/sql-tutorial/
+https://advancedsqlpuzzles.com/
+https://www.w3schools.com/sql/exercise.asp
+https://bipp.io/sql-tutorial
+https://learnsql.com/
+https://selectstarsql.com/
+http://www.sql-ex.ru/
+https://www.sqlservercentral.com/stairways
+```   
 
