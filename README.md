@@ -72,6 +72,8 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 - ReGex
 ```
 
+---
+
 - ReGex
   - [Best Tutorial on Regex (I think!)](https://youtu.be/sa-TUpSx1JA)
   - [Best Advice](https://www.reddit.com/r/learnprogramming/comments/cduxuu/comment/etwj6hj/?utm_source=share&utm_medium=web2x&context=3)
@@ -79,8 +81,8 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 
 ```
 Quick Notes:
-
-
+```
+```
 MetaCharacters (Need to be escaped):
 .[{()\^|?*+
 
@@ -90,7 +92,9 @@ For Example:
 \. - matches literal dot
 
 - You have to escape \ with \ i.e. \\
+```
 
+```
 Matches characters
 .  - Any Character Except New Line
 \d - Digit (0-9)
@@ -100,20 +104,22 @@ Matches characters
 \s - Whitespace (space, tab, newline)
 \S - Not Whitespace (space, tab, newline)
 
+```
 
+```
 Anchors - matches visible positions between characters
 \b - Word Boundary
 \B - Not a Word Boundary
 ^  - Beginning of a String
 $  - End of a String
-
-
+```
+```
 []   - Matches Characters in brackets
 [^ ] - Matches Characters NOT in bracket
 |    - Either Or
 ( )  - Group
-
-
+```
+```
 Quantifiers:
 *      - 0 or More
 +      - 1 or More
@@ -121,6 +127,9 @@ Quantifiers:
 {3}    - Exact Number
 {3, 4} - Range of Numbers (Minimum, Maximum)
 ```
+
+---
+
 
 - SQL
   - https://sqlbolt.com/
@@ -144,3 +153,4 @@ http://www.sql-ex.ru/
 https://www.sqlservercentral.com/stairways
 ```   
 
+---
