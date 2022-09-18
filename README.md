@@ -6,6 +6,11 @@
 Started  : 16-09-2022
 Expected : ?? Donno ??
 ```
+```
+Goal : 
+Make yourself familiar enough with all the concepts required to be able to tackle OSWE Course Material and exam 
+with ease and clear the examination with one single attempt (even if it's gonna be my first certification in the field of cyber sec)
+```
 <br>
 <br>
 <div align=center>
@@ -19,6 +24,7 @@ Expected : ?? Donno ??
 ## 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭
 
 ```
+- Pre-requisites
 - Tools and Methodologies
 - ATutor Authentication Bypass and RCE
 - ATutor LMS Type Juggling Vulnerability
@@ -33,4 +39,17 @@ Expected : ?? Donno ??
 - Guacamole Lite Prototype Pollution
 ```
 
+
+## 𝐏𝐫𝐞-𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
+
+> - Comfort reading and writing at least one coding language.
+>   - This course is not for you if you can't even write few lines of logic - sorry!
+>   - Just in case you can or don't know if you can:
+>     - [Practice/Test your skills here with whatever programming language you are familiar with.](https://www.codechef.com/practice?end_rating=999&group=all&hints=0&itm_campaign=practice&itm_medium=navmenu&limit=20&page=0&search=&sort_by=difficulty_rating&sort_order=asc&start_rating=0&tags=&topic=&video_editorial=0&wa_enabled=0) 
+>     - Or [here](https://www.hackerrank.com/)
+> - Familiarity with Linux.
+> 
+> - Ability to write simple Python / Perl / PHP / Bash scripts.
+> - Experience with web proxies.
+> - General understanding of web app attack vectors, theory, and practice.
 
