@@ -16,4 +16,21 @@ Expected : ?? Donno ??
 <br>
 <br>
 
+## 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭
+
+```
+- Tools and Methodologies
+- ATutor Authentication Bypass and RCE
+- ATutor LMS Type Juggling Vulnerability
+- ManageEngine Applications Manager AMUserResourceSyncServlet SQL Injection RCE
+- Bassmaster NodeJS Arbitrary JavaScript Injection Vulnerability
+- DotNetNuke Cookie Deserialization RCE
+- ERPNext Authentication Bypass and Server Side Template Injection
+- openCRX Authentication Bypass and Remote Code Execution
+- openITCOCKPIT XSS and OS Command Injection - Blackbox
+- Concord Authentication Bypass to RCE
+- Server Side Request Forgery
+- Guacamole Lite Prototype Pollution
+```
+
 
