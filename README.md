@@ -83,9 +83,16 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 ---
 
 - ReGex
-  - [Best Tutorial on Regex (I think!)](https://youtu.be/sa-TUpSx1JA)
-  - [Best Advice](https://www.reddit.com/r/learnprogramming/comments/cduxuu/comment/etwj6hj/?utm_source=share&utm_medium=web2x&context=3)
-  - https://github.com/ziishaned/learn-regex
+  - Best Reources:
+    - [Interactive Regex Tutorial](regexone.com)
+    - [Best Youtube Tutorial Video](https://youtu.be/sa-TUpSx1JA)
+    - [Learn Regex the easy way](https://github.com/ziishaned/learn-regex)
+    - [Best Advice on the Internet](https://www.reddit.com/r/learnprogramming/comments/cduxuu/comment/etwj6hj/?utm_source=share&utm_medium=web2x&context=3)
+
+  - Practice:
+    - [Regex Golf](https://alf.nu/RegexGolf)
+    - [regexcrossword.com](https://regexcrossword.com/)
+    - [regex101.com](https://regex101.com/quiz/1)
 
 ```
 Quick Notes:
@@ -162,3 +169,18 @@ https://www.sqlservercentral.com/stairways
 ```   
 
 ---
+
+
+## 𝐃𝐚𝐢𝐥𝐲 𝐋𝐨𝐠
+
+```
+16th to 18th Sept 2022: Log not maintained
+```
+```
+19th Sept 2022 : 
+
+- Studied https://youtu.be/sa-TUpSx1JA
+- Took notes from the video
+- Completed interactive tutorial from regexone.com
+- Practiced a lil' bit of regex on RegEx Golf, RegEx Crossword, etc
+```
