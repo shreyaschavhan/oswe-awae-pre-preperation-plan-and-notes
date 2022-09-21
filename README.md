@@ -184,3 +184,15 @@ https://www.sqlservercentral.com/stairways
 - Completed interactive tutorial from regexone.com
 - Practiced a lil' bit of regex on RegEx Golf, RegEx Crossword, etc
 ```
+```
+20th Sept 2022:
+
+- Revised Bash Scripting a lil' bit
+- Solved 24 Questions regarding bash scripting on Hackerrank
+```
+```
+21st Sept 2022:
+
+- Haven't spent a lot of time on studying AWAE today (Worked on project!)
+- Did 5-6 Questions regarding bash scripting on Hackerrank
+```
