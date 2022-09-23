@@ -199,4 +199,7 @@ https://www.sqlservercentral.com/stairways
 ```
 22nd Sept 2022: Did nothing.
 23rd Sept 2022: 
+
+- Solved 16 bash scripting questions on hackerrank
+- I think I'm done with hackerrank, I'll solve remaining things one by one later
 ```
