@@ -196,3 +196,7 @@ https://www.sqlservercentral.com/stairways
 - Haven't spent a lot of time on studying AWAE today (Worked on project!)
 - Did 5-6 Questions regarding bash scripting on Hackerrank
 ```
+```
+22nd Sept 2022: Did nothing.
+23rd Sept 2022: 
+```
