@@ -183,6 +183,8 @@ https://www.sqlservercentral.com/stairways
 - Debugging
 ```
 
+---
+
 <table>
     <thead>
         <tr>
@@ -217,6 +219,8 @@ Reference:
 Best .NET Deompilers: https://www.reddit.com/r/REGames/comments/t6me91/what_best_c_decompiler_that_gives_you_working/
 Best Java Classes Decompilers: https://www.reddit.com/r/java/comments/6gyprq/looking_for_a_java_decompiler/
 ```
+
+---
 
 - Vidoes:
   - Reversing .NET Applications with ILSpy: https://youtu.be/3xPL0vHGKLE
