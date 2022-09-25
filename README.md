@@ -170,7 +170,59 @@ https://www.sqlservercentral.com/stairways
 
 ---
 
+## 𝐓𝐨𝐨𝐥𝐬 𝐚𝐧𝐝 𝐌𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐢𝐞𝐬
 
+- Syllabus:
+```
+- Web Traffic Inspection
+- Interacting with web listeners using python
+- Source Code Recovery
+==> .NET code
+==> Java classes
+- Source code analysis methodology
+- Debugging
+```
+
+<table>
+    <thead>
+        <tr>
+            <th>Tools</th>
+            <th>Features</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>Burp Suite</code></td>
+        <td>Web Proxy/Listener</td>
+      </tr>
+      <tr>
+        <td><code>dnSpy</code></td>
+        <td rowspan=3>.NET Code decompilers</td>
+      </tr>
+      <tr>
+        <td><code>dotPeek</code></td>
+      </tr>
+      <tr>
+        <td><code>ilSpy</code></td>
+      </tr>
+      <tr>
+        <td><code>JD-GUI</code></td>
+        <td>Java decompilers</td>
+      </tr>
+    </tbody>
+</table>
+
+Reference:
+```
+Best .NET Deompilers: https://www.reddit.com/r/REGames/comments/t6me91/what_best_c_decompiler_that_gives_you_working/
+Best Java Classes Decompilers: https://www.reddit.com/r/java/comments/6gyprq/looking_for_a_java_decompiler/
+```
+
+- Vidoes:
+  - Reversing .NET Applications with ILSpy: https://youtu.be/3xPL0vHGKLE
+  - dotPeek - .NET decompiler and assembly browser: https://youtu.be/msJVDzrHS2g
+  - How to Use dnSpy to Reverse Engineer Unity Games: https://youtu.be/jZnT__DphzE
+  
 ## 𝐃𝐚𝐢𝐥𝐲 𝐋𝐨𝐠
 
 ```
@@ -202,4 +254,10 @@ https://www.sqlservercentral.com/stairways
 
 - Solved 16 bash scripting questions on hackerrank
 - I think I'm done with hackerrank, I'll solve remaining things one by one later
+```
+```
+24th Sept 2022: Did nothing
+25th Sept 2022: 
+
+- Tools and Methodologies
 ```
