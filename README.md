@@ -227,6 +227,43 @@ Best Java Classes Decompilers: https://www.reddit.com/r/java/comments/6gyprq/loo
   - dotPeek - .NET decompiler and assembly browser: https://youtu.be/msJVDzrHS2g
   - How to Use dnSpy to Reverse Engineer Unity Games: https://youtu.be/jZnT__DphzE
   
+---
+
+### 𝑽𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒍𝒆 𝑽𝒆𝒓𝒔𝒊𝒐𝒏𝒔 𝒐𝒇 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 𝒅𝒊𝒔𝒄𝒖𝒔𝒔𝒆𝒅 𝒊𝒏 𝒕𝒉𝒆 𝒄𝒐𝒖𝒓𝒔𝒆
+
+Syllabus | Version
+---|---
+ATutor Authentication Bypass and RCE  | ATutor v2.2.1
+ATutor LMS Type Juggling Vulnerability | ATutor v2.2.1
+ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE | ManageEngine Application Manager v12900
+Bassmaster NodeJS Arbitrary JavaScript Injection Vulnerability | Bassmaster v1.5.1
+DotNetNuke Cookie Deserialization RCE | DNN v9.1.1
+ERPNext Authentication Bypass and Server Side Template Injection | Probably ERPNext <= v12 
+openCRX Authentication Bypass and Remote Code Execution | Probably OpenCRX version <= 4.30 and 5.0-20200717
+openITCOCKPIT XSS and OS Command Injection | Probably openITCOCKPIT < 3.7.3
+
+Reference:
+```
+ATutor to DotNetNuke: https://github.com/timip/OSWE
+
+ERPNext Authentication Bypass and Server Side Template Injection:
+
+A lot of Google Search based on syllabus pdf +
+https://erpnext.com/security/references
+https://github.com/frappe/frappe/pull/8044
+https://www.cvedetails.com/cve/CVE-2019-14965/
+https://infosecwriteups.com/frapp%C3%A9-technologies-erpnext-server-side-template-injection-74e1c95ec872
+
+OpenCRX Authentication Bypass and Remote Code Execution:
+https://nvd.nist.gov/vuln/detail/CVE-2020-7378
+https://www.rapid7.com/blog/post/2020/11/24/cve-2020-7378-opencrx-unverified-password-change/
+
+openITCOCKPIT XSS and OS Command Injection:
+https://openitcockpit.io/security/
+https://openitcockpit.io/2020/2020/03/23/openitcockpit-3-7-3-released/
+```
+
+
 ## 𝐃𝐚𝐢𝐥𝐲 𝐋𝐨𝐠
 
 ```
@@ -264,4 +301,5 @@ Best Java Classes Decompilers: https://www.reddit.com/r/java/comments/6gyprq/loo
 25th Sept 2022: 
 
 - Tools and Methodologies
+- Applications Original Software Version Research based on Syllabus
 ```
