@@ -263,6 +263,37 @@ https://openitcockpit.io/security/
 https://openitcockpit.io/2020/2020/03/23/openitcockpit-3-7-3-released/
 ```
 
+---
+
+## 𝐀𝐓𝐮𝐭𝐨𝐫 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐁𝐲𝐩𝐚𝐬𝐬 𝐚𝐧𝐝 𝐑𝐂𝐄
+
+- 𝑰𝒏𝒔𝒕𝒂𝒍𝒍𝒂𝒕𝒊𝒐𝒏:
+> - Download: https://sourceforge.net/projects/atutor/files/atutor_2_2_1/
+> - (Worked for me on local machine) XAMPP v3.2.2 : https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/
+
+> ![image](https://user-images.githubusercontent.com/68887544/192209405-57cfec34-af22-4cc4-ae5f-7e2f520c39e0.png)
+
+> - It's one of these versions:
+
+> ![image](https://user-images.githubusercontent.com/68887544/192209794-3401186b-ecde-416d-9893-b5ef08af5bc8.png)
+
+> - I don't exactly remember which one I installed even if I could see the date modified and compiled date.
+> - Even installing this on our local machine was a great exercise for me personally. 
+
+
+- 𝑽𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔:
+> - https://www.cvedetails.com/cve/CVE-2016-2555/
+
+```
+I was thinking about something and an Idea popped up in my mind.
+Idea:
+What if we try finding each and every CVE metioned in the CVE list about an application on our own? Don't you think it would be a great practice exercise?
+1. Install the vulnerable version of the application.
+2. Deploy it
+3. Refer the CVE details and try finding that vulnerability on our own.
+Great idea isn't it?
+```
+
 
 ## 𝐃𝐚𝐢𝐥𝐲 𝐋𝐨𝐠
 
