@@ -270,7 +270,7 @@ https://openitcockpit.io/2020/2020/03/23/openitcockpit-3-7-3-released/
 
 - 𝑰𝒏𝒔𝒕𝒂𝒍𝒍𝒂𝒕𝒊𝒐𝒏:
 > - Download: https://sourceforge.net/projects/atutor/files/atutor_2_2_1/
-> - (Worked for me on local machine) XAMPP v3.2.2 : https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/
+> - (Worked for me on my local windows machine) XAMPP v3.2.2 : https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/
 
 > ![image](https://user-images.githubusercontent.com/68887544/192209405-57cfec34-af22-4cc4-ae5f-7e2f520c39e0.png)
 
@@ -279,7 +279,7 @@ https://openitcockpit.io/2020/2020/03/23/openitcockpit-3-7-3-released/
 > ![image](https://user-images.githubusercontent.com/68887544/192209794-3401186b-ecde-416d-9893-b5ef08af5bc8.png)
 
 > - I don't exactly remember which one I installed even if I could see the date modified and compiled date.
-> - Even installing this on our local machine was a great exercise for me personally. 
+> - Even installing this on my local machine was a great exercise for me personally. 
 
 
 - 𝑽𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔:
