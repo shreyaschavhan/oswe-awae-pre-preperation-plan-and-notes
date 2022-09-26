@@ -27,7 +27,8 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 - [Bash Scripting Notes](https://github.com/shreyaschavhan/bash-scripting-cheatsheet/)
 - [RegEx Notes](https://github.com/shreyaschavhan/regex-notes)
 - [SQL Notes](https://github.com/shreyaschavhan/sql-cheatsheet)
-
+- [AWAE Notes](https://github.com/shreyaschavhan/awae-notes)
+  - `[^ Above Repo is private for obvious reasons. I don't wanna spoon feed anyone. Plus, why I kept it here? => For my own convenience.]`
 
 ## 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭
 
@@ -333,4 +334,9 @@ Great idea isn't it?
 
 - Tools and Methodologies
 - Applications Original Software Version Research based on Syllabus
+```
+```
+26th Sept 2022:
+- ATutor 2.2.1 Setup and installation
+- Trying to understand the vulnerability and how to find all kind of vulnerabilities in detail.
 ```
