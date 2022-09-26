@@ -21,14 +21,15 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 <br>
 <br>
 
-## 𝐌𝐲 𝐨𝐰𝐧 𝐝𝐞𝐭𝐚𝐢𝐥𝐞𝐝 𝐧𝐨𝐭𝐞𝐬 𝐚𝐧𝐝 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬
+## 𝐌𝐲 𝐨𝐰𝐧 𝐝𝐞𝐭𝐚𝐢𝐥𝐞𝐝 𝐧𝐨𝐭𝐞𝐬 𝐚𝐧𝐝 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 
 
-
+- [Linux Notes](https://github.com/shreyaschavhan/linux-commands-cheatsheet)
 - [Bash Scripting Notes](https://github.com/shreyaschavhan/bash-scripting-cheatsheet/)
 - [RegEx Notes](https://github.com/shreyaschavhan/regex-notes)
 - [SQL Notes](https://github.com/shreyaschavhan/sql-cheatsheet)
 - [AWAE Notes](https://github.com/shreyaschavhan/awae-notes)
   - `[^ Above Repo is private for obvious reasons. I don't wanna spoon feed anyone. Plus, why I kept it here? => For my own convenience.]`
+- [Powershell Notes](https://github.com/shreyaschavhan/powershell-notes)
 
 ## 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭
 
