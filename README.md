@@ -346,3 +346,8 @@ Great idea isn't it?
 27th Sept 2022:
 - ATutor Authentication Bypass and RCE - a lil' bit study and took notes
 ```
+```
+28th Sept 2022:
+- Tried understanding Blind SQL Injection in ATutor
+- Was stuck somewhere in between because of some weird  behaviour by XAMPP and unfortunately couldn't resolve that.
+```
