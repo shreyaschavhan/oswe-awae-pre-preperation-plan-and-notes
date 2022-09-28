@@ -340,4 +340,9 @@ Great idea isn't it?
 26th Sept 2022:
 - ATutor 2.2.1 Setup and installation
 - Trying to understand the vulnerability and how to find all kind of vulnerabilities in detail.
+- Powershell - lil' bit
+```
+```
+27th Sept 2022:
+- ATutor Authentication Bypass and RCE - a lil' bit study and took notes
 ```
