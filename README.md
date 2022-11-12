@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shreyaschavhan.oswe-awae-pre-preperation-plan-and-notes&left_text=Views)
+
 `Notes/Plan for my own personal reference!`
 
 # 𝐎𝐒𝐖𝐄/𝐀𝐖𝐀𝐄 𝐏𝐫𝐞-𝐏𝐫𝐞𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐏𝐥𝐚𝐧 𝐚𝐧𝐝 𝐍𝐨𝐭𝐞𝐬
