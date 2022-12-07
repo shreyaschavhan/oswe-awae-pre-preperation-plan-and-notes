@@ -9,8 +9,8 @@ Started  : 16-09-2022
 Expected : ?? Donno ??
 ```
 ```
-Goal : 
-Make yourself familiar enough with all the concepts required to be able to tackle OSWE Course Material and exam 
+Goal :
+Make yourself familiar enough with all the concepts required to be able to tackle OSWE Course Material and exam
 with ease and clear the examination with one single attempt (even if it's gonna be my first certification in the field of cyber sec)
 ```
 <br>
@@ -23,7 +23,7 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 <br>
 <br>
 
-## 𝐌𝐲 𝐨𝐰𝐧 𝐝𝐞𝐭𝐚𝐢𝐥𝐞𝐝 𝐧𝐨𝐭𝐞𝐬 𝐚𝐧𝐝 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 
+## 𝐌𝐲 𝐨𝐰𝐧 𝐝𝐞𝐭𝐚𝐢𝐥𝐞𝐝 𝐧𝐨𝐭𝐞𝐬 𝐚𝐧𝐝 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬
 
 - [Linux Notes](https://github.com/shreyaschavhan/linux-commands-cheatsheet)
 - [Bash Scripting Notes](https://github.com/shreyaschavhan/bash-scripting-cheatsheet/)
@@ -32,6 +32,7 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 - [AWAE Notes](https://github.com/shreyaschavhan/awae-notes)
   - `[^ Above Repo is private for obvious reasons. I don't wanna spoon feed anyone. Plus, why I kept it here? => For my own convenience.]`
 - [Powershell Notes](https://github.com/shreyaschavhan/powershell-notes)
+- [Python Notes](https://github.com/shreyaschavhan/python-for-awae)
 
 ## 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭
 
@@ -57,7 +58,7 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 > - Comfort reading and writing at least one coding language.
 >   - This course is not for you if you can't even write few lines of logic - sorry!
 >   - Just in case you can or don't know if you can:
->     - [Practice/Test your skills here with whatever programming language you are familiar with.](https://www.codechef.com/practice?end_rating=999&group=all&hints=0&itm_campaign=practice&itm_medium=navmenu&limit=20&page=0&search=&sort_by=difficulty_rating&sort_order=asc&start_rating=0&tags=&topic=&video_editorial=0&wa_enabled=0) 
+>     - [Practice/Test your skills here with whatever programming language you are familiar with.](https://www.codechef.com/practice?end_rating=999&group=all&hints=0&itm_campaign=practice&itm_medium=navmenu&limit=20&page=0&search=&sort_by=difficulty_rating&sort_order=asc&start_rating=0&tags=&topic=&video_editorial=0&wa_enabled=0)
 >     - Or [here](https://www.hackerrank.com/)
 > - Familiarity with Linux.
 >   - [Linux Cheatsheet](https://github.com/shreyaschavhan/linux-commands-cheatsheet)
@@ -70,7 +71,7 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 >     - Practice:
 >       - [Bash Scripting Practice on Hackerrank](https://www.hackerrank.com/domains/shell?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bstatus%5D%5B%5D=solved&filters%5Bsubdomains%5D%5B%5D=bash)
 >       - https://www.learnshell.org/
->     - Book 
+>     - Book
 >       - [Shell Scripting: How to Automate Command Line Tasks Using...](https://g.co/kgs/LW4kQy)
 > - Experience with web proxies.
 > - General understanding of web app attack vectors, theory, and practice.
@@ -230,7 +231,7 @@ Best Java Classes Decompilers: https://www.reddit.com/r/java/comments/6gyprq/loo
   - Reversing .NET Applications with ILSpy: https://youtu.be/3xPL0vHGKLE
   - dotPeek - .NET decompiler and assembly browser: https://youtu.be/msJVDzrHS2g
   - How to Use dnSpy to Reverse Engineer Unity Games: https://youtu.be/jZnT__DphzE
-  
+
 ---
 
 ### 𝑽𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒍𝒆 𝑽𝒆𝒓𝒔𝒊𝒐𝒏𝒔 𝒐𝒇 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 𝒅𝒊𝒔𝒄𝒖𝒔𝒔𝒆𝒅 𝒊𝒏 𝒕𝒉𝒆 𝒄𝒐𝒖𝒓𝒔𝒆
@@ -242,7 +243,7 @@ ATutor LMS Type Juggling Vulnerability | ATutor v2.2.1
 ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE | ManageEngine Application Manager v12900
 Bassmaster NodeJS Arbitrary JavaScript Injection Vulnerability | Bassmaster v1.5.1
 DotNetNuke Cookie Deserialization RCE | DNN v9.1.1
-ERPNext Authentication Bypass and Server Side Template Injection | Probably ERPNext <= v12 
+ERPNext Authentication Bypass and Server Side Template Injection | Probably ERPNext <= v12
 openCRX Authentication Bypass and Remote Code Execution | Probably OpenCRX version <= 4.30 and 5.0-20200717
 openITCOCKPIT XSS and OS Command Injection | Probably openITCOCKPIT < 3.7.3
 
@@ -282,7 +283,7 @@ https://openitcockpit.io/2020/2020/03/23/openitcockpit-3-7-3-released/
 > ![image](https://user-images.githubusercontent.com/68887544/192209794-3401186b-ecde-416d-9893-b5ef08af5bc8.png)
 
 > - I don't exactly remember which one I installed even if I could see the date modified and compiled date.
-> - Even installing this on my local machine was a great exercise for me personally. 
+> - Even installing this on my local machine was a great exercise for me personally.
 
 
 - 𝑽𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔:
@@ -297,4 +298,3 @@ What if we try finding each and every CVE metioned in the CVE list about an appl
 3. Refer the CVE details and try finding that vulnerability on our own.
 Great idea isn't it?
 ```
-
