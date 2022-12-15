@@ -272,6 +272,12 @@ https://openitcockpit.io/2020/2020/03/23/openitcockpit-3-7-3-released/
 
 ## 𝐀𝐓𝐮𝐭𝐨𝐫 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐁𝐲𝐩𝐚𝐬𝐬 𝐚𝐧𝐝 𝐑𝐂𝐄
 
+- 𝑷𝒓𝒆-𝒓𝒆𝒒𝒖𝒊𝒔𝒊𝒕𝒆𝒔:
+> - SQL Injection - Specifically Blind Boolean Based
+>   - [My Notes](https://github.com/shreyaschavhan/advanced-sql-injection-for-awae)
+> - File Upload Vulnerabilities
+
+
 - 𝑰𝒏𝒔𝒕𝒂𝒍𝒍𝒂𝒕𝒊𝒐𝒏:
 > - Download: https://sourceforge.net/projects/atutor/files/atutor_2_2_1/
 > - (Worked for me on my local windows machine) XAMPP v3.2.2 : https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/
@@ -289,6 +295,8 @@ https://openitcockpit.io/2020/2020/03/23/openitcockpit-3-7-3-released/
 - 𝑽𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔:
 > - https://www.cvedetails.com/cve/CVE-2016-2555/
 
+- 𝑷𝒓𝒂𝒄𝒕𝒊𝒔𝒆:
+> - https://www.cvedetails.com/vulnerability-list/vendor_id-7805/Atutor.html
 ```
 I was thinking about something and an Idea popped up in my mind.
 Idea:
