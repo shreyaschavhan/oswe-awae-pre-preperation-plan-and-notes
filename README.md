@@ -83,6 +83,7 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 ```
 - SQL
 - ReGex
+- Reverse Shells
 ```
 
 ---
@@ -276,6 +277,7 @@ https://openitcockpit.io/2020/2020/03/23/openitcockpit-3-7-3-released/
 > - SQL Injection - Specifically Blind Boolean Based
 >   - [My Notes](https://github.com/shreyaschavhan/advanced-sql-injection-for-awae)
 > - File Upload Vulnerabilities
+
 
 
 - 𝑰𝒏𝒔𝒕𝒂𝒍𝒍𝒂𝒕𝒊𝒐𝒏:
