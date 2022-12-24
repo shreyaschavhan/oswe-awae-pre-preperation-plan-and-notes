@@ -300,9 +300,87 @@ https://openitcockpit.io/2020/2020/03/23/openitcockpit-3-7-3-released/
 ```
 I was thinking about something and an Idea popped up in my mind.
 Idea:
-What if we try finding each and every CVE metioned in the CVE list about an application on our own? Don't you think it would be a great practice exercise?
+What if we try finding each and every CVE mentioned in the CVE list about an application on our own? Don't you think it would be a great practice exercise?
 1. Install the vulnerable version of the application.
 2. Deploy it
 3. Refer the CVE details and try finding that vulnerability on our own.
 Great idea isn't it?
 ```
+
+---
+
+## 𝐀𝐓𝐮𝐭𝐨𝐫 𝐋𝐌𝐒 𝐓𝐲𝐩𝐞 𝐉𝐮𝐠𝐠𝐥𝐢𝐧𝐠 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲
+
+
+- 𝑷𝒓𝒆-𝒓𝒆𝒒𝒖𝒊𝒔𝒊𝒕𝒆𝒔:
+> - PHP Type Juggling
+> - Magic Hashes
+> - Python Module:
+>   - Hashlib
+
+- 𝑽𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒊𝒍𝒊𝒕𝒚:
+> - https://srcincite.io/advisories/src-2016-0016/
+
+- 𝑹𝒆𝒔𝒐𝒖𝒓𝒄𝒆𝒔:
+> - YouTube:
+>   - [Type Juggling Magic: Why PHP thinks 0 and "password" are the same](https://youtu.be/-1kftH6t5VA)
+>   - [PHP Weak Comparison with MD5 Collisions](https://www.youtube.com/watch?v=Jtb8Hncmbsg)
+>   - [PHP Type Juggling - Why === is Important](https://www.youtube.com/watch?v=idC5SAsKhlE)
+
+> - Blogs/Articles/Official Documentation:
+>   - [OWASP PPT on PHP Type Juggling](https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf)
+>   - [PHP Official Documentation](https://www.php.net/manual/en/language.types.type-juggling.php)
+
+> - Github:
+>   - [PayloadAllThings PHP Type Juggling](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Type%20Juggling/README.md)
+
+- 𝑸𝒖𝒊𝒄𝒌 𝑵𝒐𝒕𝒆𝒔:
+> - Magic Hashes:
+>
+> | Plaintext | MD5 Hash |
+> | --------- | -------- |
+> |240610708|0e462097431906509019562988736854|
+> |QLTHNDT|0e405967825401955372549139051580|
+> |QNKCDZO|0e830400451993494058024219903391|
+> |PJNPDWY|0e291529052894702774557631701704|
+> |NWWKITQ|0e763082070976038347657360817689|
+> |NOOPCJF|0e818888003657176127862245791911|
+> |MMHUWUV|0e701732711630150438129209816536|
+> |MAUXXQC|0e478478466848439040434801845361|
+> |IHKFRNS|0e256160682445802696926137988570|
+> |GZECLQZ|0e537612333747236407713628225676|
+> |GGHMVOE|0e362766013028313274586933780773|
+> |GEGHBXL|0e248776895502908863709684713578|
+> |EEIZDOI|0e782601363539291779881938479162|
+> |DYAXWCA|0e424759758842488633464374063001|
+> |DQWRASX|0e742373665639232907775599582643|
+> |BRTKUJZ|00e57640477961333848717747276704|
+> |ABJIHVY|0e755264355178451322893275696586|
+> |aaaXXAYW|0e540853622400160407992788832284|
+> |aabg7XSs|0e087386482136013740957780965295|
+> |aabC9RqS|0e041022518165728065344349536299|
+> |0e215962017|0e291242476940776845150308577824|
+>
+> ---
+>
+> | Plaintext | SHA1 Hash |
+> | --------- | --------- |
+> |aaroZmOk|0e66507019969427134894567494305185566735|
+> |aaK1STfY|0e76658526655756207688271159624026011393|
+> |aaO8zKZF|0e89257456677279068558073954252716165668|
+> |aa3OFF9m|0e36977786278517984959260394024281014729|
+>
+> ---
+>
+> | Plaintext | MD4 Hash |
+> | --------- | --------- |
+> |bhhkktQZ|0e949030067204812898914975918567|
+> |0e001233333333333334557778889|0e434041524824285414215559233446|
+> |0e00000111222333333666788888889|0e641853458593358523155449768529|
+> |0001235666666688888888888|0e832225036643258141969031181899|
+>
+> ---
+>
+> ```
+> Reference: https://github.com/JohnHammond/ctf-katana#php
+> ```
