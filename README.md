@@ -331,9 +331,12 @@ Great idea isn't it?
 
 > - Blogs/Articles/Official Documentation:
 >   - [OWASP PPT on PHP Type Juggling](https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf)
->   - [PHP Official Documentation](https://www.php.net/manual/en/language.types.type-juggling.php)
+>   - [PHP Official Documentation on Type Juggling](https://www.php.net/manual/en/language.types.type-juggling.php)
+>   - [PHP Official Documentation on Comparison Operators](https://www.php.net/manual/en/language.operators.comparison.php)
+>   - [PHP Official Documentation on Type Comparison](https://www.php.net/manual/en/types.comparisons.php)
+>   - [White Hat Security Magic Hashes](https://web.archive.org/web/20181114045729/https://www.whitehatsec.com/blog/magic-hashes/)
 
-> - Github:
+> - GitHub:
 >   - [PayloadAllThings PHP Type Juggling](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Type%20Juggling/README.md)
 
 - 𝑸𝒖𝒊𝒄𝒌 𝑵𝒐𝒕𝒆𝒔:
