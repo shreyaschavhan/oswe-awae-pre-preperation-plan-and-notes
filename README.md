@@ -79,11 +79,14 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 
 ---
 
-- Things that ain't mentioned in pre-requisites but is actually required
+- Things that ain't mentioned in pre-requisites but are actually required
 ```
 - SQL
 - ReGex
 - Reverse Shells
+- An IDE + Code Editor:
+  - Maybe Visual Studio (IDE)
+  - Visual Studio Code or ATOM or Sublime Text
 ```
 
 ---
