@@ -9,6 +9,11 @@ Started  : 16-09-2022
 Expected : ?? Donno ?? [bcz of college Assignments/ Exams/ Projects. College Sucks]
 ```
 ```
+Oct to Dec: Got Distracted with bug-bounties + College Assignments/Exams: 2 months
+Re-started: 01-12-2022
+
+```
+```
 Goal :
 Make yourself familiar enough with all the concepts required to be able to tackle OSWE Course Material and exam
 with ease and clear the examination with one single attempt (even if it's gonna be my first certification in the field of cyber sec)
