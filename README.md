@@ -11,7 +11,6 @@ Expected : ?? Donno ?? [bcz of college Assignments/ Exams/ Projects. College Suc
 ```
 Oct to Dec: Got Distracted with bug-bounties + College Assignments/Exams: 2 months
 Re-started: 01-12-2022
-
 ```
 ```
 Goal :
