@@ -6,7 +6,7 @@
 
 ```
 Started  : 16-09-2022
-Expected : ?? Donno ??
+Expected : ?? Donno ?? [bcz of college Assignments/ Exams/ Projects. College Sucks]
 ```
 ```
 Goal :
@@ -52,6 +52,7 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 - Guacamole Lite Prototype Pollution
 ```
 
+- [Official Syllabus](https://www.offensive-security.com/documentation/awae-syllabus.pdf)
 
 ## 𝐏𝐫𝐞-𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
 
@@ -244,7 +245,7 @@ Syllabus | Version
 ---|---
 ATutor Authentication Bypass and RCE  | ATutor v2.2.1
 ATutor LMS Type Juggling Vulnerability | ATutor v2.2.1
-ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE | ManageEngine Application Manager v12900
+ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE | ManageEngine Application Manager before (<) Version 13 (13730 build)
 Bassmaster NodeJS Arbitrary JavaScript Injection Vulnerability | Bassmaster v1.5.1
 DotNetNuke Cookie Deserialization RCE | DNN v9.1.1
 ERPNext Authentication Bypass and Server Side Template Injection | Probably ERPNext <= v12
@@ -254,6 +255,8 @@ openITCOCKPIT XSS and OS Command Injection | Probably openITCOCKPIT < 3.7.3
 Reference:
 ```
 ATutor to DotNetNuke: https://github.com/timip/OSWE
+
+ManageEngine Application Manager SQLi & RCE: https://www.manageengine.com/products/applications_manager/issues.html
 
 ERPNext Authentication Bypass and Server Side Template Injection:
 
@@ -392,3 +395,29 @@ Great idea isn't it?
 > ```
 > Reference: https://github.com/JohnHammond/ctf-katana#php
 > ```
+
+---
+
+## 𝐌𝐚𝐧𝐚𝐠𝐞𝐄𝐧𝐠𝐢𝐧𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 𝐀𝐌𝐔𝐬𝐞𝐫𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐒𝐲𝐧𝐜𝐒𝐞𝐫𝐯𝐥𝐞𝐭 𝐒𝐐𝐋 𝐈𝐧𝐣𝐞𝐜𝐭𝐢𝐨𝐧 𝐑𝐂𝐄
+
+- 𝑷𝒓𝒆-𝒓𝒆𝒒𝒖𝒊𝒔𝒊𝒕𝒆𝒔:
+> - Servlets (java)
+> - PostgreSQL
+> - Reverse Shells
+
+- 𝑽𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔:
+
+> - https://www.manageengine.com/products/applications_manager/issues.html
+>
+> ![image](https://user-images.githubusercontent.com/68887544/209640170-d27a9e11-251e-491f-be4e-5ab929e50f6d.png)
+
+
+- 𝑰𝒏𝒔𝒕𝒂𝒍𝒍𝒂𝒕𝒊𝒐𝒏:
+
+> - Download: https://archives.manageengine.com/applications_manager/13720/
+> - Direct Download: https://archives.manageengine.com/applications_manager/13720/ManageEngine_ApplicationsManager_64bit.exe
+>
+> ![image](https://user-images.githubusercontent.com/68887544/209663207-7caed430-0dd0-4a73-a540-43e753ee5ed6.png)
+
+- 𝑷𝒓𝒂𝒄𝒕𝒊𝒔𝒆:
+> - https://www.cvedetails.com/vulnerability-list/vendor_id-9841/product_id-41385/Zohocorp-Manageengine-Applications-Manager.html
