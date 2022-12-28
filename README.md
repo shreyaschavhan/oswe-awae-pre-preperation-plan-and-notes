@@ -422,6 +422,8 @@ Great idea isn't it?
 > - Direct Download: https://archives.manageengine.com/applications_manager/13720/ManageEngine_ApplicationsManager_64bit.exe
 >
 > ![image](https://user-images.githubusercontent.com/68887544/209663207-7caed430-0dd0-4a73-a540-43e753ee5ed6.png)
+>
+> - The above version should have worked but ain't working for me on my windows 10 vm. The latest version ran fine. I don't know why it's not working. I'll try downloading and installing few other versions and will mention it here later.
 
 - 𝑷𝒓𝒂𝒄𝒕𝒊𝒔𝒆:
 > - https://www.cvedetails.com/vulnerability-list/vendor_id-9841/product_id-41385/Zohocorp-Manageengine-Applications-Manager.html
