@@ -425,8 +425,14 @@ Great idea isn't it?
 >
 > - The above version should have worked but ain't working for me on my windows 10 vm. The latest version ran fine. I don't know why it's not working. I'll try downloading and installing few other versions and will mention it here later.
 > - oops! this might be the reason, I should find a workaround:
-> 
+>
 > ![image](https://user-images.githubusercontent.com/68887544/209804692-2b366461-46dc-4ca4-8941-b0d8c808e36b.png)
+
+> - Damn! It was more difficult than I thought. It took me 3 days to make it work, finally, sigh!
+> ---
+>
+> - For anyone who feels like they'll need my help installing MAM, you can email me or DM me on linkedin. You know where to find me ;) If not, do research ಠ_ಠ.
+
 
 
 - 𝑷𝒓𝒂𝒄𝒕𝒊𝒔𝒆:
