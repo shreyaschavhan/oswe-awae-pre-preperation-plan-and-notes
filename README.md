@@ -437,3 +437,20 @@ Great idea isn't it?
 
 - 𝑷𝒓𝒂𝒄𝒕𝒊𝒔𝒆:
 > - https://www.cvedetails.com/vulnerability-list/vendor_id-9841/product_id-41385/Zohocorp-Manageengine-Applications-Manager.html
+
+---
+
+## 𝐁𝐚𝐬𝐬𝐦𝐚𝐬𝐭𝐞𝐫 𝐍𝐨𝐝𝐞𝐉𝐒 𝐀𝐫𝐛𝐢𝐭𝐫𝐚𝐫𝐲 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 𝐈𝐧𝐣𝐞𝐜𝐭𝐢𝐨𝐧 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲
+
+- 𝑷𝒓𝒆-𝒓𝒆𝒒𝒖𝒊𝒔𝒊𝒕𝒆𝒔:
+> - NodeJS
+
+- 𝑽𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔:
+> - https://nvd.nist.gov/vuln/detail/CVE-2014-7205
+>
+> ![image](https://user-images.githubusercontent.com/68887544/210125050-0f150e79-59e6-4529-bd3e-a701016e108f.png)
+
+- 𝑰𝒏𝒔𝒕𝒂𝒍𝒍𝒂𝒕𝒊𝒐𝒏:
+> ```
+> npm install bassmaster@1.5.1
+> ```
