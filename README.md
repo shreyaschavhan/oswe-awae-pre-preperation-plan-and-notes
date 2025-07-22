@@ -33,8 +33,6 @@ with ease and clear the examination with one single attempt (even if it's gonna 
 - [Bash Scripting Notes](https://github.com/shreyaschavhan/bash-scripting-cheatsheet/)
 - [RegEx Notes](https://github.com/shreyaschavhan/regex-notes)
 - [SQL Notes](https://github.com/shreyaschavhan/sql-cheatsheet)
-- [AWAE Notes](https://github.com/shreyaschavhan/awae-notes)
-  - `[^ Above Repo is private for obvious reasons. I don't wanna spoon feed anyone. Plus, why I kept it here? => For my own convenience.]`
 - [Powershell Notes](https://github.com/shreyaschavhan/powershell-notes)
 - [Python Notes](https://github.com/shreyaschavhan/python-for-awae)
 
