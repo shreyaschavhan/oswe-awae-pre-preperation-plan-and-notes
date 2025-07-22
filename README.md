@@ -302,6 +302,9 @@ https://openitcockpit.io/2020/2020/03/23/openitcockpit-3-7-3-released/
 
 > - I don't exactly remember which one I installed even if I could see the date modified and compiled date.
 > - Even installing this on my local machine was a great exercise for me personally.
+>
+> Update:
+> I restarted my preparation in July 2025, XAMPP v5.6.14-4 version worked. Here's the file name: `xampp-portable-win32-5.6.14-4-VC11-installer`
 
 
 - 𝑽𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔:
